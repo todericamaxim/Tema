@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalc", "MyCalc.csproj", "{8DBB4B7E-5B6C-42EC-A200-19FB2A070D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalcLib", "..\MyCalcLib\MyCalcLib.csproj", "{C3C55773-341A-40C3-9C25-6273BAE02153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoatLanguage", "..\GoatLanguage\GoatLanguage.csproj", "{59196A94-1672-4774-AC06-4F4004130D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoatLanguage_Test", "..\GoatLanguage_Test\GoatLanguage_Test.csproj", "{72AFCAB3-074C-41C7-930A-46F24F3B40D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "..\Matrix\Matrix.csproj", "{62FE35BB-ABE1-40A4-A8E9-44CA50F623C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_Test", "..\Matrix_Test\Matrix_Test.csproj", "{E858966D-46AA-4D24-88AD-FB45BBC3677D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DBB4B7E-5B6C-42EC-A200-19FB2A070D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBB4B7E-5B6C-42EC-A200-19FB2A070D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBB4B7E-5B6C-42EC-A200-19FB2A070D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBB4B7E-5B6C-42EC-A200-19FB2A070D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C55773-341A-40C3-9C25-6273BAE02153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C55773-341A-40C3-9C25-6273BAE02153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C55773-341A-40C3-9C25-6273BAE02153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C55773-341A-40C3-9C25-6273BAE02153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59196A94-1672-4774-AC06-4F4004130D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59196A94-1672-4774-AC06-4F4004130D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59196A94-1672-4774-AC06-4F4004130D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59196A94-1672-4774-AC06-4F4004130D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AFCAB3-074C-41C7-930A-46F24F3B40D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AFCAB3-074C-41C7-930A-46F24F3B40D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AFCAB3-074C-41C7-930A-46F24F3B40D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AFCAB3-074C-41C7-930A-46F24F3B40D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FE35BB-ABE1-40A4-A8E9-44CA50F623C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FE35BB-ABE1-40A4-A8E9-44CA50F623C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FE35BB-ABE1-40A4-A8E9-44CA50F623C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FE35BB-ABE1-40A4-A8E9-44CA50F623C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E858966D-46AA-4D24-88AD-FB45BBC3677D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E858966D-46AA-4D24-88AD-FB45BBC3677D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E858966D-46AA-4D24-88AD-FB45BBC3677D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E858966D-46AA-4D24-88AD-FB45BBC3677D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85923267-5793-4253-8D75-201346C4FF90}
+	EndGlobalSection
+EndGlobal
